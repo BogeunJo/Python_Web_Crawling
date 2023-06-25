@@ -1,0 +1,6 @@
+print("hello world")
+print(-1,0,10)
+print(-2.5,2,12.8)
+print("코딩으로 돈벌기", end=" ")
+print('절대 포기하지 말자')
+print(True, False)

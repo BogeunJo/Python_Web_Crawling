@@ -1,0 +1,1 @@
+--upx-dir=C:/Users/lg/AppData/Local/Programs/Python/Python311/Lib/site-packages/PyInstaller/upx-4.0.0-win64
